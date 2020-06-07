@@ -1,0 +1,45 @@
+.anasayfa{
+  width: 1521px;
+  height: 1400px;
+  background-color: #f1f1f1;
+  margin: -20px -10px;
+}
+
+
+
+.kutu{
+  width: 840px;
+  height: 1000px;
+  background-color: #ffffff;
+  position: absolute;
+  right: 130px;
+  top: 90px;
+}
+
+.kutu h2{
+  position: absolute;
+  right: 370px;
+  top: 50px;
+  color: #3c3c3c;
+}
+
+ .yazı{
+   width: 500px;
+   height: 500px;
+   background-color: #f1f1f1;
+   position: absolute;
+   left: 180px;
+   top: 200px;
+ }
+
+
+
+
+.altkutu{
+  position: absolute;
+  top: 1290px;
+  left: 468px;
+  background-color: #ffffff;
+  width: 1051px;
+  height: 98px;
+}

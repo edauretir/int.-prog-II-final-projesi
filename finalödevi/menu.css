@@ -1,0 +1,58 @@
+.yankutu{
+  width: 470px;
+  height: 1400px;
+  background-color: #ffffff;
+  position: absolute;
+}
+
+.yankutu h1 a{
+  text-decoration: none;
+  position: absolute;
+  left: 110px;
+  top: 150px;
+  color: black;
+}
+
+.yankutu p{
+  font-size: 16px;
+  position: absolute;
+  left: 110px;
+  top: 175px;
+}
+
+.menü{
+  background-color: #f1f1f1;
+  width: 280px;
+  height: 150px;
+  position: absolute;
+  top: 250px;
+  left: 100px;
+}
+
+.menü a{
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+  position: absolute;
+  left: 50px;
+  font-family: sans-serif;
+}
+
+
+
+.ku{
+  background-color: #f1f1f1;
+  width: 210px;
+  height: 300px;
+  position: absolute;
+  top: 500px;
+  left: 140px;
+}
+
+.ku a{
+  color: black;
+  text-decoration: none;
+  position: absolute;
+  left: 100px;
+  top: 265px;
+}
